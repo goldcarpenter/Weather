@@ -1,0 +1,33 @@
+######## shenzhen weather url
+sz_url=http://www.weather.com.cn/weather/101270101.shtml
+
+######## login username
+username=goldcarpenter@163.com
+
+######## authorization code
+authorization_code=11235813YYx
+
+######## sender_email
+sender_email=goldcarpenter@163.com
+
+######## sender_name
+sender_name=goldcarpenter
+
+######## receivers
+receivers=602690967@qq.com
+
+######## server host
+#tx#host=smtp.qq.com
+host=smtp.163.com
+
+######## mail.smtp.port
+port=465
+
+######## mail.smtp.protocol
+protocol=smtp
+
+######## retry times, when exception occurs while crawling, retry times
+retry_times=5
+
+######## weixin keys
+weixin_receiver_keys=SCU57803Ta22b39316d6f572d73aff745d87575e75d59fb2a1635b
