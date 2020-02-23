@@ -48,7 +48,8 @@ public class WeatherServiceMain {
         String confPath = null;
         if (args.length == 1) {
             confPath = args[0];
-        } else {
+        }
+        else {
             logger.error("invalid args number");
         }
         init(confPath);
