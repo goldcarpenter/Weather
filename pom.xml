@@ -10,7 +10,7 @@
     <properties>
         <http-version>4.5.1</http-version>
         <javax-mail>1.4.4</javax-mail>
-        <jsoup-version>1.7.2</jsoup-version>
+        <jsoup-version>1.15.3</jsoup-version>
         <log-version>1.2.16</log-version>
         <slf-version>1.6.6</slf-version>
 
